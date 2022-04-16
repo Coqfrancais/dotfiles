@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ulysse.galetÃ@rennes-sb.com
+	name = ulysse galet
